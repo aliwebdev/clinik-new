@@ -9,7 +9,7 @@
                     <div class="round align-self-center round-success"><i class="fa fa-wallet"></i></div>
                     <div class="m-l-10 align-self-center">
                         <h3 class="m-b-0">$18090</h3>
-                        <h5 class="text-muted m-b-0">Income</h5></div>
+                        <h5 class="text-muted m-b-0">Mablag'</h5></div>
                 </div>
             </div>
         </div>
