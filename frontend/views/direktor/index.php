@@ -23,7 +23,7 @@
                     <div class="round align-self-center round-info"><i class="fas fa-users"></i></div>
                     <div class="m-l-10 align-self-center">
                         <h3 class="m-b-0">2690</h3>
-                        <h5 class="text-muted m-b-0">Patients</h5></div>
+                        <h5 class="text-muted m-b-0">Bemorlar</h5></div>
                 </div>
             </div>
         </div>
