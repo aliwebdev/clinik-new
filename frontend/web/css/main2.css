@@ -153,3 +153,7 @@ a {
     font-size: 20px;
     font-family: Poppins,sans-serif;
 }
+.container-login100 {
+  background: url('/images/bg.jpg') no-repeat!important;
+  background-size: cover!important;
+}
