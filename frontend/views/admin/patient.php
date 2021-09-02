@@ -8,17 +8,24 @@
                                         </center>
                                         <hr>
                                         <div class="row p-t-20">
-                                            <div class="col-md-6">
+                                            <div class="col-md-4">
                                                 <div class="form-group">
                                                     <label class="control-label">Familiyasi va Ismi</label>
                                                     <input type="text" id="firstName" class="form-control" placeholder="John Doe">
                                                      </div>
                                             </div>
                                             <!--/span-->
-                                            <div class="col-md-6">
+                                            <div class="col-md-4">
                                                 <div class="form-group">
                                                     <label class="control-label">Bemor raqami</label>
                                                     <input type="number" id="" class="form-control" placeholder="">
+                                                     </div>
+                                            </div>
+
+                                            <div class="col-md-4">
+                                                <div class="form-group">
+                                                    <label class="control-label">Tug'ilgan yili</label>
+                                                    <input type="text" id="" class="form-control" placeholder="">
                                                      </div>
                                             </div>
                                             <!--/span-->
@@ -28,7 +35,7 @@
                                             <div class="col-md-4">
                                                 <div class="form-group">
                                                     <label class="control-label">Telefon</label>
-                                                    <input type="text" id="firstName" class="form-control" placeholder="+998-- --- -- --">
+                                                    <input type="text" id="firstName" class="form-control" placeholder="+99890 123 45 67">
                                                      </div>
                                             </div>
                                             <!--/span-->
@@ -58,9 +65,6 @@
 
                                         <!--/row-->
                                         <div class="row">
-
-
-
    
                                             <!--/span-->
                                         </div>
@@ -87,9 +91,6 @@
                                                     </select>
                                                 </div>
                                             </div>
-
-
-
 
                                         <div class="col-md-4">
                                                 <div class="form-group">

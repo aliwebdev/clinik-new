@@ -159,12 +159,7 @@ return table;
                                 Shifokorlar
                             </a>
                         </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>admin" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Adminstratorlar
-                            </a>
-                        </li>
+
 
                     </ul>
                 </nav>
