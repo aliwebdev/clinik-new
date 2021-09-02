@@ -103,7 +103,7 @@ a {
     font-family: 'Roboto', sans-serif!important;
 }
 .elite-top-menu {
-    background: #6c757d;
+    background: #5fa9eb!important;
     height: 66px;
 }
 .nav-small-cap {
@@ -115,8 +115,9 @@ a {
     margin-top: -15px;
 }
 .dropdown-menu-right {
-    background: #6c757d!important;
+    background: #5fa9eb!important;
     color: #fff!important;
+    background: #5fa9eb;
 }
 #calendar-month-year {
     text-align: center;
@@ -156,5 +157,10 @@ a {
 .container-login100 {
   background: url('/images/bg.jpg') no-repeat!important;
   background-size: cover!important;
-  /* text-emphasis-style: none; */
+}
+#example23 thead, #example23 tfoot {
+    background: #72b4ee;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
 }
