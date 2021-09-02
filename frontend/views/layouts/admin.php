@@ -146,7 +146,6 @@ return table;
                 </div>
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
-                        <li class="nav-small-cap"><h4>-Hisobotlar</h4></li>
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
                                 <i class="fas fa-users"></i>
