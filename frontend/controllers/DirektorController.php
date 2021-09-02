@@ -22,4 +22,16 @@ class DirektorController extends Controller {
         $this->layout = 'direktor';
         return $this->render('admin');
     }
+    public function actionAdoctor() {
+        $this->layout = 'direktor';
+        return $this->render('adoctor');
+    }
+    public function actionAdadmin() {
+        $this->layout = 'direktor';
+        return $this->render('adadmin');
+    }
+    public function actionProfile() {
+        $this->layout = 'direktor';
+        return $this->render('profile');
+    }
 }

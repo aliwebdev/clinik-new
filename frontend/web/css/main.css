@@ -163,3 +163,43 @@ a {
     text-transform: uppercase;
     font-size: 16px;
 }
+.fileHolder {
+    position: relative;
+}
+.fileIcon {
+    opacity: 0;
+    position: absolute;
+    z-index: 5;
+    top: 40px;
+    left: 0;
+}
+.fa-file-image {
+    background: #5fa9eb;
+    padding: 8px 40px;
+    box-shadow: 1px 1px 5px #000;
+    color: #fff;
+    border-radius: 5px;
+    position: absolute;
+    font-size: 30px;
+    top: 30px;
+    left: 10px;
+    transition: all .3;
+}
+.fa-file-image:hover {
+    filter: brightness(1.1);
+    box-shadow: 5px 5px 15px #000;
+}
+.adoc {
+    background: rgb(232, 238, 241)!important;
+}
+.sSoha {
+    background: rgb(255, 255, 255)!important;
+}
+.userInfo {
+    margin-top: 20px!important;
+}
+.fa-eye {
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}

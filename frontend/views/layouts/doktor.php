@@ -155,12 +155,6 @@ return table;
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>second" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Nmadur
-                            </a>
-                        </li>
-                        <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>third" aria-expanded="false">
                                 <i class="fas fa-users"></i>
                                 Avvalgi Bemorlar
