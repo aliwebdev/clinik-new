@@ -9,7 +9,7 @@
                     <div class="round align-self-center round-success"><i class="fa fa-wallet"></i></div>
                     <div class="m-l-10 align-self-center">
                         <h3 class="m-b-0">$18090</h3>
-                        <h5 class="text-muted m-b-0">Mablag'</h5></div>
+                        <h5 class="text-muted m-b-0">Tushum</h5></div>
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
                     <div class="round align-self-center round-info"><i class="fas fa-users"></i></div>
                     <div class="m-l-10 align-self-center">
                         <h3 class="m-b-0">2690</h3>
-                        <h5 class="text-muted m-b-0">Bemorlar</h5></div>
+                        <h5 class="text-muted m-b-0">Harajat</h5></div>
                 </div>
             </div>
         </div>
@@ -37,7 +37,7 @@
                     <div class="round align-self-center round-danger"><i class="ti-calendar"></i></div>
                     <div class="m-l-10 align-self-center">
                         <h3 class="m-b-0">20 march</h3>
-                        <h5 class="text-muted m-b-0">My birthday</h5></div>
+                        <h5 class="text-muted m-b-0">Be'morlar</h5></div>
                 </div>
             </div>
         </div>
@@ -51,7 +51,7 @@
                     <div class="round align-self-center round-success"><i class="ti-settings"></i></div>
                     <div class="m-l-10 align-self-center">
                         <h3 class="m-b-0">6540</h3>
-                        <h5 class="text-muted m-b-0">pending</h5></div>
+                        <h5 class="text-muted m-b-0">Shifokorlar</h5></div>
                 </div>
             </div>
         </div>
