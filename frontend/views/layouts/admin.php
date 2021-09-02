@@ -150,7 +150,7 @@ return table;
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
                                 <i class="fas fa-users"></i>
-                                Be'morlar
+                                Ro'yhatga olish
                             </a>
                         </li>
                         <li>
@@ -165,24 +165,7 @@ return table;
                                 Adminstratorlar
                             </a>
                         </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="adoctor" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Shifokor saylash
-                            </a>
-                        </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="adadmin" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Adminstrator saylash
-                            </a>
-                        </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="cost" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Harajatlar
-                            </a>
-                        </li>
+
                     </ul>
                 </nav>
             </div>
