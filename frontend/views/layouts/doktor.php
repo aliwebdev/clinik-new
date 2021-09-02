@@ -67,7 +67,6 @@ function get_calendar(day_no, days){
   var table = document.createElement('table');
   var tr = document.createElement('tr');
 
-🇺🇿𝖞𝖔𝖚𝖓𝖌𝖊𝖘𝖙 𝖋𝖑𝖊𝖝𝖊𝖗💵✌️, [02.09.21 15:42]
 //row for the day letters
   for(var c=0; c<=6; c++){
       var th = document.createElement('th');
