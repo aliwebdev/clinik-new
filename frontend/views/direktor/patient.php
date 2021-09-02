@@ -6,7 +6,7 @@
             <thead>
                 <tr>
                     <th>N<small>o</small></th>
-                    <th>Familiya Ismi</th>
+                    <th>Familiya Ism</th>
                     <th>Telefon</th>
                     <th>Manzil</th>
                     <th>Tug'ilgan yili</th>
@@ -19,7 +19,7 @@
             <tfoot>
                 <tr>
                     <th>N<small>o</small></th>
-                    <th>Familiya Ismi</th>
+                    <th>Familiya Ism</th>
                     <th>Telefon</th>
                     <th>Manzil</th>
                     <th>Tug'ilgan yili</th>
