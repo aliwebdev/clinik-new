@@ -1,3 +1,4 @@
+🇺🇿𝖞𝖔𝖚𝖓𝖌𝖊𝖘𝖙 𝖋𝖑𝖊𝖝𝖊𝖗💵✌️, [02.09.21 15:42]
 <?php
 use frontend\assets\AppAsset;
 use yii\helpers\Url;
@@ -66,7 +67,8 @@ function get_calendar(day_no, days){
   var table = document.createElement('table');
   var tr = document.createElement('tr');
 
-  //row for the day letters
+🇺🇿𝖞𝖔𝖚𝖓𝖌𝖊𝖘𝖙 𝖋𝖑𝖊𝖝𝖊𝖗💵✌️, [02.09.21 15:42]
+//row for the day letters
   for(var c=0; c<=6; c++){
       var th = document.createElement('th');
       th.innerHTML = "DSCPJSY"[c];
@@ -142,49 +144,32 @@ return table;
                                     <i class="fa fa-power-off"></i> Logout</a>
                             </div>
                         </div>
-                    </div>
                 </div>
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
                         <li class="nav-small-cap"><h4>-Hisobotlar</h4></li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Be'morlar
+                            <a class="waves-effect waves-dark " href="<?= Url::base()?>index" aria-expanded="false">
+                                <i class="fas fa-user"></i>
+                                Be'morlar sahifasi
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>doctor" aria-expanded="false">
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>second" aria-expanded="false">
                                 <i class="fas fa-users"></i>
-                                Shifokorlar
+                                Nmadur
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>admin" aria-expanded="false">
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>third" aria-expanded="false">
                                 <i class="fas fa-users"></i>
-                                Adminstratorlar
+                                Avvalgi Bemorlar
                             </a>
                         </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="adoctor" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Shifokor saylash
-                            </a>
-                        </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="adadmin" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Adminstrator saylash
-                            </a>
-                        </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="cost" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Harajatlar
-                            </a>
-                        </li>
+                      
                     </ul>
                 </nav>
+                    </div>
             </div>
         </aside>
         <div class="page-wrapper">

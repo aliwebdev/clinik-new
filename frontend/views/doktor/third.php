@@ -1,7 +1,7 @@
 🇺🇿𝖞𝖔𝖚𝖓𝖌𝖊𝖘𝖙 𝖋𝖑𝖊𝖝𝖊𝖗💵✌️, [02.09.21 15:43]
 <div class="card">
                             <div class="card-body">
-                                <h4 class="card-title">Bemorlar sahifasi </h4>
+                                <h4 class="card-title">Avvalgi Bemorlar</h4>
                                 <h6 class="card-subtitle">Hamma bemorlar</h6>
                                 <div class="table-responsive m-t-40">
                                     <table id="config-table" class="table display table-bordered table-striped no-wrap">
