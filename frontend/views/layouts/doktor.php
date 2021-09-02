@@ -1,4 +1,4 @@
-🇺🇿𝖞𝖔𝖚𝖓𝖌𝖊𝖘𝖙 𝖋𝖑𝖊𝖝𝖊𝖗💵✌️, [02.09.21 15:42]
+
 <?php
 use frontend\assets\AppAsset;
 use yii\helpers\Url;

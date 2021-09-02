@@ -1,4 +1,4 @@
-🇺🇿𝖞𝖔𝖚𝖓𝖌𝖊𝖘𝖙 𝖋𝖑𝖊𝖝𝖊𝖗💵✌️, [02.09.21 15:43]
+
 <div class="card">
                             <div class="card-body">
                                 <h4 class="card-title">Bemorlar sahifasi </h4>
@@ -66,7 +66,6 @@
                                             <tr>
                                                 <td>5</td>
 
-🇺🇿𝖞𝖔𝖚𝖓𝖌𝖊𝖘𝖙 𝖋𝖑𝖊𝖝𝖊𝖗💵✌️, [02.09.21 15:43]
 <td>Airi</td>
                                                 <td>Satou</td>
                                                 <td>Accountant</td>
