@@ -66,7 +66,7 @@ function get_calendar(day_no, days){
   var todaysDate = new Date().getDate();
   var table = document.createElement('table');
   var tr = document.createElement('tr');
-  
+
 //row for the day letters
   for(var c=0; c<=6; c++){
       var th = document.createElement('th');

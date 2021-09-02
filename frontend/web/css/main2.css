@@ -198,8 +198,9 @@ a {
 .userInfo {
     margin-top: 20px!important;
 }
-.fa-eye {
+.only-eye {
     position: absolute;
     top: 40px;
     right: 30px;
+    /* useless */
 }

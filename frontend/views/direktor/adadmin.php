@@ -72,12 +72,12 @@
                         <div class="col-md-4 fileHolder">
                             <label for="">Parol</label>
                             <input type="password" id="id" class="form-control" placeholder="hospital1856">
-                            <a href="javascript:void(0)" onclick="l()"><i class="fas fa-eye"></i></a>
+                            <a href="javascript:void(0)" onclick="l()"><i class="fas fa-eye only-eye"></i></a>
                         </div>
                         <div class="col-md-4 fileHolder">
                             <label for="">Parolni tasdiqlang</label>
                             <input type="password" id="id2" class="form-control" placeholder="hospital1856">
-                            <a href="javascript:void(0)" onclick="l2()"><i class="fas fa-eye"></i></a>
+                            <a href="javascript:void(0)" onclick="l2()"><i class="fas fa-eye only-eye"></i></a>
                         </div>
                     </div>
                 </div>
