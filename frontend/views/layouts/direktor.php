@@ -35,7 +35,10 @@ AppAsset::register($this);
                         <li><h4>&nbsp;</h4></li>
                     </ul>
                     <ul class="navbar-nav my-lg-0">
-                        <li><div id="clock">clock</div></li>
+                        <li class="myNav-item"><h5><i class="fas fa-money-bill-alt"> 500000 so'm</i></h5></li>
+                        <li class="nav-divide"></li>
+                        <li class="myNav-item"><h5><i class="fas fa-procedures"> 35</i></h5></li>
+                        <li><div id="clock">vaqt</div></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle waves-effect waves-dark" href="#" id="2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="far fa-calendar-alt"></i></a>
                             <div class="dropdown-menu mailbox dropdown-menu-right animated bounceInDown" aria-labelledby="2">
@@ -132,12 +135,12 @@ return table;
                         </div>
                         <div class="dropdown">
                             <a href="javascript:void(0)" class="dropdown-toggle u-dropdown link hide-menu" data-toggle="dropdown" role="button" aria-haspopup="true"
-                                aria-expanded="false">Akbar Vahobovich
-                                <span class="caret"></span>
-                            </a>
-                            <div class="dropdown-menu animated flipInY">
-                                <a href="<?= Url::base()?>profile" class="dropdown-item">
-                                    <i class="fas fa-edit"></i> My Profile</a>
+                            aria-expanded="false">Akbar Vahobovich
+                            <span class="caret"></span>
+                        </a>
+                        <div class="dropdown-menu animated flipInY">
+                            <a href="<?= Url::base()?>profile" class="dropdown-item">
+                                <i class="fas fa-edit"></i>Mening Sahifam</a>
                                 <a href="javascript:void(0)" class="dropdown-item">
                                     <i class="fa fa-power-off"></i> Logout</a>
                             </div>
@@ -147,6 +150,12 @@ return table;
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
                         <li class="nav-small-cap"><h4>-Hisobotlar</h4></li>
+                        <li>
+                            <a class="waves-effect waves-dark" href="stat" aria-expanded="false">
+                                <i class="fas fa-users"></i>
+                                Statistika
+                            </a>
+                        </li>
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
                                 <i class="fas fa-users"></i>
@@ -175,12 +184,6 @@ return table;
                             <a class="waves-effect waves-dark" href="adadmin" aria-expanded="false">
                                 <i class="fas fa-users"></i>
                                 Adminstrator saylash
-                            </a>
-                        </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="cost" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Harajatlar
                             </a>
                         </li>
                     </ul>

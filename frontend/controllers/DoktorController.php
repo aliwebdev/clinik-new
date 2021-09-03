@@ -14,4 +14,16 @@ class DoktorController extends Controller {
           $this->layout = 'doktor';
         return $this->render('third');
     }
+    public function actionProfile() {
+        $this->layout = 'admin';
+        return $this->render('profile');
+    }
+    public function actionEdit() {
+        $this->layout = 'admin';
+        return $this->render('edit');
+    }
+    public function actionEdit2() {
+        $this->layout = 'admin';
+        return $this->render('edit2');
+    }
 }

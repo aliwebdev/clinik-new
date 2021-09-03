@@ -20,6 +20,7 @@ class AppAsset extends AssetBundle
         'css/elite/jquery.toast.css',
         'css/elite/style.min.css',
         'css/elite/dashboard1.css',
+        'css/elite/dashboard3.css',
         'css/elite/dataTables.bootstrap4.css',
         'css/elite/responsive.dataTables.min.css',
     ];
@@ -28,6 +29,7 @@ class AppAsset extends AssetBundle
         'js/elite/sidebarmenu.js',
         'js/elite/custom.min.js',
         'js/elite/dashboard1.js',
+        'js/elite/dashboard3.js',
         'js/elite/perfect-scrollbar.jquery.min.js',
         'js/elite/jquery-3.2.1.min.js',
         'js/elite/popper.min.js',
@@ -47,6 +49,8 @@ class AppAsset extends AssetBundle
         // 'js/elite/vfs_fonts.js',
         // 'js/elite/jquery.toast.js',
         'js/clock.js',
+        'js/clock2.js',
+        'js/nothis.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',
