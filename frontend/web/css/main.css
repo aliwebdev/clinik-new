@@ -204,3 +204,38 @@ a {
     right: 30px;
     /* useless */
 }
+.myNav-item {
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.myNav-item h5 {
+    font-size: 26px;
+    color: #fff;
+}
+.nav-divide {
+    width: 1px;
+    height: 50px;
+    background: #fff;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.myStyle-form {
+    width: 150px!important;
+}
+.myStyle-arror {
+    float: right;
+    font-size: 22px;
+    padding: 0 5px;
+}
+.fa-calendar-alt {
+margin-top: 25px;
+}
+.formItem {
+    margin-top: 15px!important;
+}
+.costPicker {
+    margin-top: 10px;
+}
+.statDir {
+    background: #fff;
+}

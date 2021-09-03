@@ -6,8 +6,6 @@
             <thead>
                 <tr>
                     <th>Familiya Ism</th>
-                    <th>Telefon</th>
-                    <th>Telegram</th>
                     <th>Yosh</th>
                     <th></th>
                 </tr>
@@ -15,8 +13,6 @@
             <tfoot>
                 <tr>
                     <th>Familiya Ism</th>
-                    <th>Telefon</th>
-                    <th>Telegram</th>
                     <th>Yosh</th>
                     <th></th>
                 </tr>
@@ -24,29 +20,21 @@
             <tbody>
                 <tr>
                     <td>Ali Akbarov</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
                     <td>32</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>
                 <tr>
                     <td>Ali Akbarov</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
                     <td>32</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>
                 <tr>
                     <td>Ali Akbarov</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
                     <td>32</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>
                 <tr>
                     <td>Ali Akbarov</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
                     <td>32</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>

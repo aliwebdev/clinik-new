@@ -4,7 +4,7 @@
           <!-- Breadcrumb -->
           <nav aria-label="breadcrumb" class="main-breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item active" aria-current="page">Direktor Malumotlari</li>
+              <li class="breadcrumb-item active" aria-current="page">Doktor Malumotlari</li>
             </ol>
           </nav>
           <!-- /Breadcrumb -->
@@ -34,6 +34,12 @@
                   <hr>
                   <div class="row">
                     <div class="col-sm-12">
+                      <h6 class="mb-0">Tug'ilgan sana: <big>1980 yil 20 dek</big></h6>
+                    </div>
+                  </div>
+                  <hr>
+                  <div class="row">
+                    <div class="col-sm-12">
                       <h6 class="mb-0">Telegram: <big>@alimov</big></h6>
                     </div>
                   </div>
@@ -54,8 +60,17 @@
                     <div class="col-sm-12">
                       <h6 class="mb-0">Manzil: <big>Furqat 41 uy</big></h6>
                     </div>
-                    <div class="col-sm-9 text-secondary">
-                      Bay Area, San Francisco, CA
+                  </div>
+                  <hr>
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <h6 class="mb-0">Jins: <big>Erkak</big></h6>
+                    </div>
+                  </div>
+                  <hr>
+                  <div class="row">
+                    <div class="col-sm-12">
+                      <h6 class="mb-0">Soha: <big>Hirurg</big></h6>
                     </div>
                   </div>
                   <hr>
