@@ -3,7 +3,7 @@
         <form action="#">
             <div class="form-body">
                 <center>
-                <h3 class="card-title">Adminstrator Saylash</h3>
+                <h3 class="card-title">Malumot o'zgaritish</h3>
                 </center>
                 <hr>
                 <div class="row p-t-20">
@@ -64,48 +64,16 @@
                         <i class="far fa-file-image"></i>
                     </div>
                 </div>
-                    <div class="row col-md-12 userInfo">
-                        <div class="col-md-4">
-                            <label for="">Foydalanuvchi Nomi</label>
-                            <input type="text" class="form-control" placeholder="hirurg14">
-                        </div>
-                        <div class="col-md-4 fileHolder">
-                            <label for="">Parol</label>
-                            <input type="password" id="id" class="form-control" placeholder="hospital1856">
-                            <a href="javascript:void(0)" onclick="l()"><i class="fas fa-eye only-eye"></i></a>
-                        </div>
-                        <div class="col-md-4 fileHolder">
-                            <label for="">Parolni tasdiqlang</label>
-                            <input type="password" id="id2" class="form-control" placeholder="hospital1856">
-                            <a href="javascript:void(0)" onclick="l2()"><i class="fas fa-eye only-eye"></i></a>
-                        </div>
-                    </div>
                 </div>
             <div class="form-actions userInfo">
-                <button type="submit" class="btn btn-outline-success">Saylash <i class="fa fa-check"></i></button>
-                <a href="<?= \yii\helpers\Url::base()?>index" class="btn btn-outline-danger">Cancel <i class="fas fa-times"></i></a>
+            <div class="form-actions userInfo row">
+                <a href="<?= \yii\helpers\Url::base()?>index" class="btn btn-outline-success">Saqlash <i class="fa fa-check"></i></a>
+                <div class="col-md-9">
+                <a href="<?= \yii\helpers\Url::base()?>index" class="btn btn-outline-danger">Bekor qilish <i class="fas fa-times"></i></a>
+                </div>
+                <a href="<?= \yii\helpers\Url::base()?>edit2" class="btn btn-outline-dark">Parolni o'zgartirish <i class="fas fa-edit"></i></a>
+            </div>
             </div>
         </form>
     </div>
 </div>
-<script>
-    function l(){
-        var x =
-        document.getElementById("id");
-        if (x.type === "password"){
-            x.type = "text";
-        }else{
-            x.type = "password";
-        }
-    }
-
-    function l2(){
-        var x =
-        document.getElementById("id2");
-        if (x.type === "password"){
-            x.type = "text";
-        }else{
-            x.type = "password";
-        }
-    }
-</script>

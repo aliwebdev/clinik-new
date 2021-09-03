@@ -7,9 +7,8 @@
                 <tr>
                     <th>Familiya Ism</th>
                     <th>Soxa</th>
-                    <th>Telefon</th>
-                    <th>Telegram</th>
-                    <th>Yosh</th>
+                    <th>Oylik daromad <i class="fas fa-arrows-alt-v myStyle-arror" role="button"></i></th>
+                    <th>Oylik be'morlar <i class="fas fa-arrows-alt-v myStyle-arror" role="button"></i></i></th>
                     <th></th>
                 </tr>
             </thead>
@@ -17,9 +16,8 @@
                 <tr>
                     <th>Familiya Ism</th>
                     <th>Soxa</th>
-                    <th>Telefon</th>
-                    <th>Telegram</th>
-                    <th>Yosh</th>
+                    <th>Oylik daromad</i></th>
+                    <th>Oylik be'morlar</i></th>
                     <th></th>
                 </tr>
             </tfoot>
@@ -27,33 +25,29 @@
                 <tr>
                     <td>Ali Akbarov</td>
                     <td>Stomatolog</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
-                    <td>32</td>
+                    <td>8,000,000 so'm</td>
+                    <td>120</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>
                 <tr>
                     <td>Ali Akbarov</td>
                     <td>Stomatolog</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
-                    <td>32</td>
+                    <td>8,000,000 so'm</td>
+                    <td>120</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>
                 <tr>
                     <td>Ali Akbarov</td>
                     <td>Stomatolog</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
-                    <td>32</td>
+                    <td>8,000,000 so'm</td>
+                    <td>120</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>
                 <tr>
                     <td>Ali Akbarov</td>
                     <td>Stomatolog</td>
-                    <td>+99890 1234567</td>
-                    <td><a href="#">@sahobov</a></td>
-                    <td>32</td>
+                    <td>8,000,000 so'm</td>
+                    <td>120</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
                 </tr>
             </tbody>

@@ -9,7 +9,7 @@ AppAsset::register($this);
 <html lang="uz">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Direktor Sahifasi</title>
+    <title>Doktor Sahifasi</title>
     <style>
         
     </style>
@@ -137,7 +137,7 @@ return table;
                                 <span class="caret"></span>
                             </a>
                             <div class="dropdown-menu animated flipInY">
-                                <a href="javascript:void(0)" class="dropdown-item">
+                                <a href="profile" class="dropdown-item">
                                     <i class="fas fa-edit"></i> My Profile</a>
                                 <a href="javascript:void(0)" class="dropdown-item">
                                     <i class="fa fa-power-off"></i> Logout</a>

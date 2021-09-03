@@ -34,4 +34,16 @@ class DirektorController extends Controller {
         $this->layout = 'direktor';
         return $this->render('profile');
     }
+    public function actionEdit() {
+        $this->layout = 'direktor';
+        return $this->render('edit');
+    }
+    public function actionEdit2() {
+        $this->layout = 'direktor';
+        return $this->render('edit2');
+    }
+    public function actionStat() {
+        $this->layout = 'direktor';
+        return $this->render('stat');
+    }
 }
