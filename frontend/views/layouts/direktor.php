@@ -152,37 +152,43 @@ return table;
                         <li class="nav-small-cap"><h4>-Hisobotlar</h4></li>
                         <li>
                             <a class="waves-effect waves-dark" href="stat" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                            <i class="fas fa-chart-line"></i>
                                 Statistika
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
+                            <a class="waves-effect waves-dark" href="every" aria-expanded="false">
                                 <i class="fas fa-users"></i>
+                                Barcha hodimlar
+                            </a>
+                        </li>
+                        <li>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
+                            <i class="fas fa-procedures"></i>
                                 Be'morlar
                             </a>
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>doctor" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                            <i class="fas fa-user-md"></i>
                                 Shifokorlar
                             </a>
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>admin" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                            <i class="fas fa-headset"></i>
                                 Adminstratorlar
                             </a>
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="adoctor" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                                <i class="fas fa-user-cog"></i>
                                 Shifokor saylash
                             </a>
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="adadmin" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                                <i class="fas fa-user-cog"></i>
                                 Adminstrator saylash
                             </a>
                         </li>

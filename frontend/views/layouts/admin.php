@@ -35,6 +35,9 @@ AppAsset::register($this);
                         <li><h4>&nbsp;</h4></li>
                     </ul>
                     <ul class="navbar-nav my-lg-0">
+                        <li class="myNav-item"><h5><i class="far fa-pause-circle"> 23</i></h5></li>
+                        <li class="nav-divide"></li>
+                        <li class="myNav-item"><h5><i class="fas fa-user-plus"> 59</i></h5></li>
                         <li><div id="clock">clock</div></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle waves-effect waves-dark" href="#" id="2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="far fa-calendar-alt"></i></a>
@@ -148,13 +151,19 @@ return table;
                     <ul id="sidebarnav">
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                            <i class="fas fa-id-badge"></i>
                                 Ro'yhatga olish
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>doctor" aria-expanded="false">
+                            <a class="waves-effect waves-dark" href="every" aria-expanded="false">
                                 <i class="fas fa-users"></i>
+                                Barcha hodimlar
+                            </a>
+                        </li>
+                        <li>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>doctor" aria-expanded="false">
+                            <i class="fas fa-user-md"></i>
                                 Shifokorlar
                             </a>
                         </li>
