@@ -158,5 +158,5 @@
      </head>
      <body>
         <br>
-     <div id="chartContainer" class="statDir" style="height: 400px; width: 100%; padding-bottom: 50px; "></div><br><br>
+     <div id="chartContainer" class="statDir" style="height: 400px; width: 100%; margin-bottom: 50px; "></div><br><br>
                        
