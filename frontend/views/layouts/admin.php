@@ -140,9 +140,9 @@ return table;
                             </a>
                             <div class="dropdown-menu animated flipInY">
                                 <a href="profile" class="dropdown-item">
-                                    <i class="fas fa-edit"></i>Mening sahofam</a>
+                                    <i class="fas fa-edit"></i>Mening sahifam</a>
                                 <a href="javascript:void(0)" class="dropdown-item">
-                                    <i class="fa fa-power-off"></i> Logout</a>
+                                    <i class="fa fa-power-off"></i>Chiqish</a>
                             </div>
                         </div>
                     </div>
@@ -156,18 +156,34 @@ return table;
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="every" aria-expanded="false">
-                                <i class="fas fa-users"></i>
-                                Barcha hodimlar
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>list" aria-expanded="false">
+                                <i class="fas fa-procedures"></i>
+                                Qabuldgi bemorlar
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>doctor" aria-expanded="false">
-                            <i class="fas fa-user-md"></i>
-                                Shifokorlar
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>hodimlar" aria-expanded="false">
+                            <i class="fas fa-history"></i>
+                               Hodimlar tarixi
                             </a>
                         </li>
-
+                        <li>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>hodimlar" aria-expanded="false">
+                            <i class="fas fa-users"></i>
+                               Barcha hodimlar
+                            </a>
+                        </li>
+                        <li>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>savat" aria-expanded="false">
+                            <i class="fas fa-trash"></i>
+                               Savat
+                            </a>
+                        </li><li>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>help" aria-expanded="false">
+                            <i class="fas fa-question"></i>
+                               Yordam
+                            </a>
+                        </li>
 
                     </ul>
                 </nav>
