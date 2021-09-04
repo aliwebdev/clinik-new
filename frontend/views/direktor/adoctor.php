@@ -95,7 +95,7 @@
                 </div>
             <div class="form-actions userInfo">
                 <button type="submit" class="btn btn-outline-success">Saylash <i class="fa fa-check"></i></button>
-                <a href="<?= \yii\helpers\Url::base()?>index" class="btn btn-outline-danger">Cancel <i class="fas fa-times"></i></a>
+                <a href="<?= \yii\helpers\Url::base()?>index" class="btn btn-outline-danger">Bekor qilish <i class="fas fa-times"></i></a>
             </div>
         </form>
     </div>

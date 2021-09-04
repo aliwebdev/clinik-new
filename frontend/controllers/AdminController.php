@@ -31,4 +31,8 @@ class AdminController extends Controller {
         $this->layout = 'admin';
         return $this->render('edit2');
     }
+    public function actionEvery() {
+        $this->layout = 'admin';
+        return $this->render('every');
+    }
 }
