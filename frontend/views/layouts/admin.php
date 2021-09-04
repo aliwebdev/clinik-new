@@ -180,7 +180,7 @@ return table;
                             </a>
                         </li><li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>help" aria-expanded="false">
-                            <i class="fas fa-question"></i>
+                            <i class="fas fa-info"></i>
                                Yordam
                             </a>
                         </li>

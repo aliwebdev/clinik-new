@@ -164,13 +164,13 @@ return table;
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>history" aria-expanded="false">
-                            <i class="fas fa-list-alt"></i>
+                            <i class="fas fa-history"></i>
                                 Be'morlar tarixi
                             </a>
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>help" aria-expanded="false">
-                            <i class="fas fa-list-alt"></i>
+                            <i class="fas fa-info"></i>
                                 Yordam
                             </a>
                         </li>
@@ -179,10 +179,13 @@ return table;
                     </div>
             </div>
         </aside>
-        <div class="page-wrapper">
+        <div class="page-wrapper" style="position: relative;">
             <?= $content ?>
+            <footer class="card" style="position: absolute; bottom: -10px!important; left: 0!important; width: 100%;height: 10%; display: flex;flex-direction: row;align-items: center;justify-content: space-between; padding: 0px 30px;">
+              <strong>&reg Vali-Teach Group</strong>
+              <strong>Murojaat uchun:<span><a href="">+998945515701</a></span></strong>
+            </footer>
         </div>
-    </div>
 <?php $this->endBody() ?>
 </body>
 </html>
