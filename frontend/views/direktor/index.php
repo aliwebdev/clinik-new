@@ -7,8 +7,6 @@
         </div>
         <div class="col-md-8" style="display: flex;flex-direction: row;">
             <input type="date" class="col-md-12 form-control"><span><button class="btn btn-outline-info">Qidirish</button></span>
-            
-
         </div>
     </div>
 </div>
