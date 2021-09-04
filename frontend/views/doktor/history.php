@@ -1,4 +1,23 @@
-<div class="card">  
+<div class="row docDate">
+    <div class="col-md-3 row">
+        <div class="col-md-9">
+            <input type="date" class="form-control">
+        </div>
+        <div class="col-md-3">
+            <label for="">dan</label>
+        </div>
+    </div>
+    <div class="col-md-3 row">
+        <div class="col-md-9">
+            <input type="date" class="form-control">
+        </div>
+        <div class="col-md-3">
+            <label for="">gacha</label>
+        </div>
+    </div>
+    <div class="col-md-1"><a href="#" class="btn btn-outline-info">Qidirish</a></div>
+</div>
+<div class="card">
     <div class="card-body">
         <table id="example23"
             class="display nowrap table table-hover table-striped table-bordered"
@@ -6,10 +25,10 @@
             <thead>
                 <tr>
                     <th>N<small>o</small></th>
-                    <th>Familiya Ism</th>
+                    <th><input type="text" class="form-control" placeholder="Ism Familiya"></th>
                     <th>Kelgan Sana <i class="fas fa-arrows-alt-v myStyle-arror" role="button"></i></th>
                     <th>To'lov</th>
-                    <th class="px100"><input type="text" class="form-control"></th>
+                    <th class="px100"></th>
                 </tr>
             </thead>
             <tfoot>

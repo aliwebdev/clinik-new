@@ -18,9 +18,9 @@ class DirektorController extends Controller {
         $this->layout = 'direktor';
         return $this->render('doctor');
     }
-    public function actionAdmin() {
+    public function actionHelp() {
         $this->layout = 'direktor';
-        return $this->render('admin');
+        return $this->render('help');
     }
     public function actionAdoctor() {
         $this->layout = 'direktor';

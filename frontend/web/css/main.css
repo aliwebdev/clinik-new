@@ -297,9 +297,19 @@ margin-top: 25px;
 .admin-rn {
     background: rgb(221, 226, 228);
 }
+.paddingBottom {
+    padding-bottom: 20px;
+}
 .marginTop {
     padding-top: 150px;
 }
 .px100 {
-    width: 200px!important;
+    width: 70px!important;
+}
+.docDate {
+    padding: 20px;
+    line-height: 40px;
+}
+.fa-phone {
+    transform: rotateZ(90deg)!important;
 }
