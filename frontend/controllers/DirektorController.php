@@ -46,4 +46,8 @@ class DirektorController extends Controller {
         $this->layout = 'direktor';
         return $this->render('stat');
     }
+    public function actionEvery() {
+        $this->layout = 'direktor';
+        return $this->render('every');
+    }
 }

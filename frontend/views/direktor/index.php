@@ -1,3 +1,4 @@
+<div class="myCards">
 <div class="row">
     <div class="col-md-9"></div>
     <div class="row col-md-3">
@@ -9,37 +10,60 @@
         </div>
     </div>
 </div>
+<h3>Bugungi hisobotlar</h3>
+<div class="row cardHolder">
+<div class="col-md-1"></div>
+<div class="col-md-4">
+    <div class="col-md-12 row myCard">
+        <div class="col-md-4"><div class="iconHolder"><i class="fas fa-wallet"></i></div></div>
+        <div class="dataHolder col-md-8"><h5>23,000,000 so'm</h5></div>
+    </div>
+</div>
+<div class="col-md-2"></div>
+<div class="col-md-4">
+    <div class="col-md-12 row myCard">
+        <div class="col-md-4"><div class="iconHolder"><i class="fas fa-heartbeat"></i></div></div>
+        <div class="dataHolder col-md-8"><h5>340 be'mor</h5></div>
+    </div>
+</div>
+<div class="col-md-1"></div>
+</div>
 
-<div class="yearCards">
-<h2>Bugungi</h2>
-<div class="row">
-    <!-- Column -->
-    <div class="col-lg-3 col-md-6">
-        <div class="card">
-            <div class="card-body">
-                <div class="d-flex flex-row">
-                    <div class="round align-self-center round-success"><i class="fa fa-wallet"></i></div>
-                    <div class="m-l-10 align-self-center">
-                        <h3 class="m-b-0">24,000,000 so'm</h3>
-                        <h5 class="text-muted m-b-0">Daromad</h5></div>
-                </div>
-            </div>
-        </div>
+<h3>Kechagi hisobotlar</h3>
+<div class="row cardHolder">
+<div class="col-md-1"></div>
+<div class="col-md-4">
+    <div class="col-md-12 row myCard">
+        <div class="col-md-4"><div class="iconHolder"><i class="fas fa-wallet"></i></div></div>
+        <div class="dataHolder col-md-8"><h5>23,000,000 so'm</h5></div>
     </div>
-    <!-- Column -->
-    <!-- Column -->
-    <div class="col-lg-3 col-md-6">
-        <div class="card">
-            <div class="card-body">
-                <div class="d-flex flex-row">
-                    <div class="round align-self-center round-info"><i class="fas fa-users"></i></div>
-                    <div class="m-l-10 align-self-center">
-                        <h3 class="m-b-0">230</h3>
-                        <h5 class="text-muted m-b-0">Be'mor</h5></div>
-                </div>
-            </div>
-        </div>
+</div>
+<div class="col-md-2"></div>
+<div class="col-md-4">
+    <div class="col-md-12 row myCard">
+        <div class="col-md-4"><div class="iconHolder"><i class="fas fa-heartbeat"></i></div></div>
+        <div class="dataHolder col-md-8"><h5>340 be'mor</h5></div>
     </div>
-    <!-- Column -->
+</div>
+<div class="col-md-1"></div>
+</div>
+
+<h3>Ikki kun avvalgi hisobotlar</h3>
+<div class="row cardHolder">
+<div class="col-md-1"></div>
+<div class="col-md-4">
+    <div class="col-md-12 row myCard">
+        <div class="col-md-4"><div class="iconHolder"><i class="fas fa-wallet"></i></div></div>
+        <div class="dataHolder col-md-8"><h5>23,000,000 so'm</h5></div>
+    </div>
+</div>
+<div class="col-md-2"></div>
+<div class="col-md-4">
+    <div class="col-md-12 row myCard">
+        <div class="col-md-4"><div class="iconHolder"><i class="fas fa-heartbeat"></i></div></div>
+        <div class="dataHolder col-md-8"><h5>340 be'mor</h5></div>
+    </div>
+</div>
+<div class="col-md-1"></div>
 </div>
 </div>

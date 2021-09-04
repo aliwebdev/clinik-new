@@ -149,13 +149,13 @@ return table;
                         <li class="nav-small-cap"><h4>-Hisobotlar</h4></li>
                         <li>
                             <a class="waves-effect waves-dark " href="<?= Url::base()?>index" aria-expanded="false">
-                                <i class="fas fa-user"></i>
+                            <i class="fas fa-clipboard-list"></i>
                                 Be'morlar sahifasi
                             </a>
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>third" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                            <i class="fas fa-list-alt"></i>
                                 Avvalgi Bemorlar
                             </a>
                         </li>
