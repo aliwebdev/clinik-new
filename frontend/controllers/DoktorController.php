@@ -10,9 +10,17 @@ class DoktorController extends Controller {
         $this->layout = 'doktor';
         return $this->render('index');
     }
-    public function actionThird() {
-          $this->layout = 'doktor';
-        return $this->render('third');
+    public function actionActive() {
+        $this->layout = 'doktor';
+        return $this->render('active');
+    }
+    public function actionHistory() {
+        $this->layout = 'doktor';
+        return $this->render('history');
+    }
+    public function actionHelp() {
+        $this->layout = 'doktor';
+        return $this->render('help');
     }
     public function actionProfile() {
         $this->layout = 'doktor';
