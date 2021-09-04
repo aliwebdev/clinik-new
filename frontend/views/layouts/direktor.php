@@ -150,12 +150,7 @@ return table;
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
                         <li class="nav-small-cap"><h4>-Hisobotlar</h4></li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="stat" aria-expanded="false">
-                            <i class="fas fa-chart-line"></i>
-                                Statistika
-                            </a>
-                        </li>
+ 
                         <li>
                             <a class="waves-effect waves-dark" href="every" aria-expanded="false">
                                 <i class="fas fa-users"></i>
@@ -163,9 +158,15 @@ return table;
                             </a>
                         </li>
                         <li>
+                            <a class="waves-effect waves-dark" href="every2" aria-expanded="false">
+                                <i class="fas fa-users"></i>
+                                Hodimlar tarixi
+                            </a>
+                        </li>
+                        <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>patient" aria-expanded="false">
                             <i class="fas fa-procedures"></i>
-                                Be'morlar
+                                Bemorlar
                             </a>
                         </li>
                         <li>
@@ -174,30 +175,23 @@ return table;
                                 Shifokorlar
                             </a>
                         </li>
+ 
                         <li>
                             <a class="waves-effect waves-dark" href="<?= Url::base()?>admin" aria-expanded="false">
-                            <i class="fas fa-headset"></i>
-                                Adminstratorlar
-                            </a>
-                        </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="adoctor" aria-expanded="false">
                                 <i class="fas fa-user-cog"></i>
-                                Shifokor saylash
-                            </a>
-                        </li>
-                        <li>
-                            <a class="waves-effect waves-dark" href="adadmin" aria-expanded="false">
-                                <i class="fas fa-user-cog"></i>
-                                Adminstrator saylash
+                                Yordam
                             </a>
                         </li>
                     </ul>
                 </nav>
             </div>
         </aside>
-        <div class="page-wrapper">
+        <div class="page-wrapper" style="position: relative;">
             <?= $content ?>
+            <footer class="card" style="position: absolute; bottom: 0; left: 0!important; width: 100%;height: 10%; display: flex;flex-direction: row;align-items: center;justify-content: space-between; padding: 0px 30px;">
+              <strong>&reg Vali-Teach Group</strong>
+              <strong>Murojaat uchun:<span><a href="">+998945515701</a></span></strong>
+            </footer>
         </div>
     </div>
 <?php $this->endBody() ?>

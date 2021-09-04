@@ -9,7 +9,7 @@
                 <th>Familiya Ism</th>
                     <th>Soha</th>
                     <th>Telefon</th>
-                    <th>Ishga kirgan sana </i></i></th>
+                    <th>Ishdan ketgan sana </i></i></th>
                     <th class=""><input type="text" class="form-control search "></th>
                 </tr>
             </thead>
@@ -19,7 +19,7 @@
                 <th>Familiya Ism</th>
                     <th>Soha</th>
                     <th>Telefon</i></th>
-                    <th>Ishga kirgan sana </i></th>
+                    <th>Ishdan ketgan sana </i></th>
                     <th></th>
                 </tr>
             </tfoot>
@@ -32,7 +32,7 @@
                     <td>23.03.2003</td>
                     <th>
                     <a href="#" class="btn btn-outline-info">To'liq</a>
-                    <a href="#" class="btn btn-outline-info">Bekor</a>
+                    <a href="#" class="btn btn-outline-info">Taxrirlash</a>
                     </th>
                 </tr>
                 <tr>
@@ -42,7 +42,7 @@
                     <td>+99890 123 45 67</td>
                     <td>23.03.2003</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a>
-                    <a href="#" class="btn btn-outline-info">Bekor</a>
+                    <a href="#" class="btn btn-outline-info">Taxrirlash</a>
                 </th>
                 </tr>
                 <tr>
@@ -52,7 +52,7 @@
                     <td>+99890 123 45 67</td>
                     <td>23.03.2003</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a>
-                    <a href="#" class="btn btn-outline-info">Bekor</a>
+                    <a href="#" class="btn btn-outline-info">Taxrirlash</a>
                 </th>
                 </tr>
                 <tr>
@@ -62,7 +62,7 @@
                     <td>+99890 123 45 67</td>
                     <td>23.03.2003</td>
                     <th><a href="#" class="btn btn-outline-info">To'liq</a>
-                    <a href="#" class="btn btn-outline-info">Bekor</a>
+                    <a href="#" class="btn btn-outline-info">Taxrirlash</a>
                 </th>
                 </tr>
             </tbody>
