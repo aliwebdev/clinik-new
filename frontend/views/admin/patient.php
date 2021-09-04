@@ -1,3 +1,7 @@
+<?
+use yii\helpers\Url;
+use yii\helpers\Html;
+?>
 <div class="card">
     <div class="card-body">
         <form action="#">
@@ -20,7 +24,7 @@
                             <input type="date" id="" class="form-control" placeholder="">
                                 </div>
                     </div>
-                    <!--/span-->
+                    
                     
                     <div class="col-md-4">
                         <div class="form-group">
@@ -30,7 +34,7 @@
                     </div>
                 </div>
                 <div class="row p-t-20">
-                    <!--/span-->
+           
                     <div class="col-md-4">
                         <div class="form-group">
                             <label class="control-label">Manzili</label>

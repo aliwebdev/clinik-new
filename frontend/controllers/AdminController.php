@@ -14,6 +14,7 @@ class AdminController extends Controller {
     {
         $this->layout = 'admin';
         return $this->render('patient');
+        
     }
     public function actionDoctor() {
         $this->layout = 'admin';
