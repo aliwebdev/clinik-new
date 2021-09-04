@@ -10,7 +10,7 @@
     <div class="col" style="display:flex; flex-direction: row; justify-content: space-around; margin-top: 30px;">
      <div class="row" >
                     <div class="col-md-12 form-control">
-                      <h6 class="mb-0"><i class="fas fa-edit"></i>&nbsp Tel: <span><a href="">+998945515701</a></span></h6>
+                      <h6 class="mb-0"><i class="fas fa-phone"></i>&nbsp Tel: <span><a href="">+998945515701</a></span></h6>
                     </div>
     <br>
      

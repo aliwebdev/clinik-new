@@ -20,9 +20,9 @@
             </tr>
         </table>
     </div>
-    <div class="row">
+    <div class="row paddingBottom">
         <div class="col-md-4">
-            <label for="">Kasallik tashxisini</label>
+            <label for="">Kasallik tashxisi</label>
             <textarea name="" class="form-control" cols="30" rows="8"></textarea>
         </div>
         <div class="col-md-1"></div>

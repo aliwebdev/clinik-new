@@ -159,7 +159,7 @@ return table;
                         </li>
                         <li>
                             <a class="waves-effect waves-dark" href="every2" aria-expanded="false">
-                                <i class="fas fa-users"></i>
+                                <i class="fas fa-history"></i>
                                 Hodimlar tarixi
                             </a>
                         </li>
@@ -177,8 +177,8 @@ return table;
                         </li>
  
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>admin" aria-expanded="false">
-                                <i class="fas fa-user-cog"></i>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>help" aria-expanded="false">
+                                <i class="fas fa-info"></i>
                                 Yordam
                             </a>
                         </li>
@@ -188,12 +188,11 @@ return table;
         </aside>
         <div class="page-wrapper" style="position: relative;">
             <?= $content ?>
-            <footer class="card" style="position: absolute; bottom: 0; left: 0!important; width: 100%;height: 10%; display: flex;flex-direction: row;align-items: center;justify-content: space-between; padding: 0px 30px;">
+            <footer class="card" style="position: absolute; bottom: -10px; left: 0!important; width: 100%;height: 10%; display: flex;flex-direction: row;align-items: center;justify-content: space-between; padding: 0px 30px;">
               <strong>&reg Vali-Teach Group</strong>
               <strong>Murojaat uchun:<span><a href="">+998945515701</a></span></strong>
             </footer>
         </div>
-    </div>
 <?php $this->endBody() ?>
 </body>
 </html>
