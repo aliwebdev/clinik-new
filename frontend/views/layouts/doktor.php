@@ -36,7 +36,10 @@ AppAsset::register($this);
                         <li><h4>&nbsp;</h4></li>
                     </ul>
                     <ul class="navbar-nav my-lg-0">
-                        <li><div id="clock">clock</div></li>
+                        <li class="myNav-item"><h5><i class="fas fa-money-bill-alt"> 1,200,000 so'm</i></h5></li>
+                        <li class="nav-divide"></li>
+                        <li class="myNav-item"><h5><i class="fas fa-procedures"> 24</i></h5></li>
+                        <li><div id="clock">vaqt</div></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle waves-effect waves-dark" href="#" id="2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="far fa-calendar-alt"></i></a>
                             <div class="dropdown-menu mailbox dropdown-menu-right animated bounceInDown" aria-labelledby="2">
@@ -150,16 +153,27 @@ return table;
                         <li>
                             <a class="waves-effect waves-dark " href="<?= Url::base()?>index" aria-expanded="false">
                             <i class="fas fa-clipboard-list"></i>
-                                Be'morlar sahifasi
+                                Ko'rikdagi Be'morlar
                             </a>
                         </li>
                         <li>
-                            <a class="waves-effect waves-dark" href="<?= Url::base()?>third" aria-expanded="false">
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>active" aria-expanded="false">
                             <i class="fas fa-list-alt"></i>
-                                Avvalgi Bemorlar
+                                Qabuldagi Be'morlar
                             </a>
                         </li>
-                      
+                        <li>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>history" aria-expanded="false">
+                            <i class="fas fa-list-alt"></i>
+                                Be'morlar tarixi
+                            </a>
+                        </li>
+                        <li>
+                            <a class="waves-effect waves-dark" href="<?= Url::base()?>help" aria-expanded="false">
+                            <i class="fas fa-list-alt"></i>
+                                Yordam
+                            </a>
+                        </li>
                     </ul>
                 </nav>
                     </div>
