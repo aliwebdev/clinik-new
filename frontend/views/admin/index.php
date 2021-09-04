@@ -1,1 +1,0 @@
-<p>jamshid aka ishlashi un test.</p>
