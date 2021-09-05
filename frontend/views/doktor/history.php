@@ -15,6 +15,12 @@
             <label for="">gacha</label>
         </div>
     </div>
+    <div class="col-md-5 row historyStat">
+        <div class="col-md-1"></div>
+        <div class="col-md-7"><li class="myNav-item"><h5><i class="fas fa-money-bill-alt"> 1,200,000 so'm</i></h5></li></div>
+        <div class="col-md-1"><li class="nav-divide"></li></div>
+        <div class="col-md-3"><li class="myNav-item"><h5><i class="fas fa-procedures"> 24</i></h5></li></div>
+    </div>
     <div class="col-md-1"><a href="#" class="btn btn-outline-info">Qidirish</a></div>
 </div>
 <div class="card">
@@ -31,43 +37,83 @@
                     <th class="px100"></th>
                 </tr>
             </thead>
-            <tfoot>
-                <tr>
-                    <th>N<small>o</small></th>
-                    <th>Familiya Ism</th>
-                    <th>Kelgan Sana</th>
-                    <th>To'lov</th>
-                    <th></th>
-                </tr>
-            </tfoot>
             <tbody>
                 <tr>
-                    <th>1</th>
+                    <td>1</td>
                     <td>Shahzod Alimjanov</td>
                     <td>2021/08/12</td>
                     <td>74000 so'm</td>
-                    <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
                 </tr>
                 <tr>
-                    <th>1</th>
+                    <td>1</td>
                     <td>Shahzod Alimjanov</td>
                     <td>2021/08/12</td>
                     <td>74000 so'm</td>
-                    <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
                 </tr>
                 <tr>
-                    <th>1</th>
+                    <td>1</td>
                     <td>Shahzod Alimjanov</td>
                     <td>2021/08/12</td>
                     <td>74000 so'm</td>
-                    <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
                 </tr>
                 <tr>
-                    <th>1</th>
+                    <td>1</td>
                     <td>Shahzod Alimjanov</td>
                     <td>2021/08/12</td>
                     <td>74000 so'm</td>
-                    <th><a href="#" class="btn btn-outline-info">To'liq</a></th>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Shahzod Alimjanov</td>
+                    <td>2021/08/12</td>
+                    <td>74000 so'm</td>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Shahzod Alimjanov</td>
+                    <td>2021/08/12</td>
+                    <td>74000 so'm</td>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Shahzod Alimjanov</td>
+                    <td>2021/08/12</td>
+                    <td>74000 so'm</td>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Shahzod Alimjanov</td>
+                    <td>2021/08/12</td>
+                    <td>74000 so'm</td>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Shahzod Alimjanov</td>
+                    <td>2021/08/12</td>
+                    <td>74000 so'm</td>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Shahzod Alimjanov</td>
+                    <td>2021/08/12</td>
+                    <td>74000 so'm</td>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Shahzod Alimjanov</td>
+                    <td>2021/08/12</td>
+                    <td>74000 so'm</td>
+                    <td><a href="#" class="btn btn-outline-info">To'liq</a></td>
                 </tr>
             </tbody>
         </table>
