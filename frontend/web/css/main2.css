@@ -313,3 +313,17 @@ margin-top: 25px;
 .fa-phone {
     transform: rotateZ(90deg)!important;
 }
+.historyStat {
+    height: 50px;
+}
+.historyStat div {
+    margin-top: -20px;
+}
+.historyStat i {
+    color: #000;
+}
+th {
+    background: #5fa9eb;
+    position: sticky;
+    top: 0;
+}
