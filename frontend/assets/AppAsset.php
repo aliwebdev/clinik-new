@@ -23,6 +23,8 @@ class AppAsset extends AssetBundle
         'css/elite/dashboard3.css',
         'css/elite/dataTables.bootstrap4.css',
         'css/elite/responsive.dataTables.min.css',
+        'css/modal.css'
+
     ];
     public $js = [
         'js/elite/waves.js',
@@ -37,6 +39,7 @@ class AppAsset extends AssetBundle
         'js/elite/raphael-min.js',
         'js/elite/morris.min.js',
         'js/elite/jquery.sparkline.min.js',
+        'js/modal.js',
         // 'js/elite/sticky-kit.min.js',
         // 'js/elite/jquery.dataTables.min.js',
         // 'js/elite/dataTables.responsive.min.js',
